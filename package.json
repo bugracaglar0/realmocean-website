@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@celmino/ui": "^1.0.55",
+    "@tuval/forms": "^1.0.180"
+  }
+}
